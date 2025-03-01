@@ -44,11 +44,6 @@ def delete_repeated(path: str):
         log(f'{__file__} - {traceback.format_exc()}')
 
 
-def main(user_name: str):
+def execute(user_name: str):
     user_path = os.path.join(f'C:\\Users\\{user_name}')
     delete_repeated(path=user_path)
-
-        
-if __name__ == '__main__':
-    main('Emili')
-
