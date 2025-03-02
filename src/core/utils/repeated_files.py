@@ -5,8 +5,8 @@ import traceback
 
 
 repeated: dict = {}
-    
-    
+
+
 def hash_file(filename, *args):
     hash = hashlib.md5()
 
@@ -18,24 +18,24 @@ def hash_file(filename, *args):
     except (OSError, PermissionError):
         log(f'{__file__} - {traceback.format_exc()}')
     return None
-        
-    
+
+
 def delete_repeated(path: str):
     try:
         for root, dirs, files in os.walk(path):
             dirs[:] = [
-                d for d in dirs 
-                if not d.startswith('.') 
+                d for d in dirs
+                if not d.startswith('.')
                 and d not in ['AppData', 'OpenVPN']
             ]
             for file in files:
                 if not file.endswith(('.DAT', '.LOG1', '.LOG2')):
                     full_path = os.path.join(root, file)
                     file_hash = hash_file(full_path)
-                
+
                     if file_hash is None:
                         continue
-                    
+
                     if file_hash in repeated:
                         os.remove(full_path)
                     else:

@@ -15,7 +15,7 @@ class BackgroundRemover:
         os.makedirs(proccessed_folder, exist_ok=True)
 
         for filename in os.listdir(self.input_folder):
-            if filename.endswith(('.png','jpg','jpeg')):
+            if filename.endswith(('.png', 'jpg', 'jpeg')):
                 input_path = os.path.join(self.input_folder, filename)
                 output_path = os.path.join(proccessed_folder, filename)
                 self._remove_bg(input_path, output_path)

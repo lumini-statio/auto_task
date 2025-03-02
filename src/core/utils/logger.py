@@ -16,5 +16,6 @@ logging.basicConfig(
     datefmt='%d/%m/%Y %H:%M:%S'
 )
 
+
 def log(message: str):
     logging.info(message)
