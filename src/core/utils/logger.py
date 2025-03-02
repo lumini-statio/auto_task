@@ -1,6 +1,7 @@
 import os
 import logging
 
+
 appdata_path = os.getenv('APPDATA')
 logs_dir = os.path.join(appdata_path, 'automation', 'logs')
 

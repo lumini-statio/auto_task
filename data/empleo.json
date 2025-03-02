@@ -1,0 +1,157 @@
+[
+    {
+        "per\u00edodo":"2017 1er trimestre",
+        "tasa_de_desocupaci\u00f3n":9.2,
+        "tasa_de_empleo":41.3
+    },
+    {
+        "per\u00edodo":"2017 2do trimestre",
+        "tasa_de_desocupaci\u00f3n":8.7,
+        "tasa_de_empleo":41.5
+    },
+    {
+        "per\u00edodo":"2017 3er trimestre",
+        "tasa_de_desocupaci\u00f3n":8.3,
+        "tasa_de_empleo":42.4
+    },
+    {
+        "per\u00edodo":"2017 4to trimestre",
+        "tasa_de_desocupaci\u00f3n":7.2,
+        "tasa_de_empleo":43.0
+    },
+    {
+        "per\u00edodo":"2018 1er trimestre",
+        "tasa_de_desocupaci\u00f3n":9.1,
+        "tasa_de_empleo":42.4
+    },
+    {
+        "per\u00edodo":"2018 2do trimestre",
+        "tasa_de_desocupaci\u00f3n":9.6,
+        "tasa_de_empleo":41.9
+    },
+    {
+        "per\u00edodo":"2018 3er trimestre",
+        "tasa_de_desocupaci\u00f3n":9.0,
+        "tasa_de_empleo":42.5
+    },
+    {
+        "per\u00edodo":"2018 4to trimestre",
+        "tasa_de_desocupaci\u00f3n":9.1,
+        "tasa_de_empleo":42.2
+    },
+    {
+        "per\u00edodo":"2019 1er trimestre",
+        "tasa_de_desocupaci\u00f3n":10.1,
+        "tasa_de_empleo":42.3
+    },
+    {
+        "per\u00edodo":"2019 2do trimestre",
+        "tasa_de_desocupaci\u00f3n":10.6,
+        "tasa_de_empleo":42.6
+    },
+    {
+        "per\u00edodo":"2019 3er trimestre ",
+        "tasa_de_desocupaci\u00f3n":9.7,
+        "tasa_de_empleo":42.6
+    },
+    {
+        "per\u00edodo":"2019 4to trimestre",
+        "tasa_de_desocupaci\u00f3n":8.9,
+        "tasa_de_empleo":43.0
+    },
+    {
+        "per\u00edodo":"2020 1er trimestre",
+        "tasa_de_desocupaci\u00f3n":10.4,
+        "tasa_de_empleo":42.2
+    },
+    {
+        "per\u00edodo":"2020 2do trimestre",
+        "tasa_de_desocupaci\u00f3n":13.1,
+        "tasa_de_empleo":33.4
+    },
+    {
+        "per\u00edodo":"2020 3er trimestre",
+        "tasa_de_desocupaci\u00f3n":11.7,
+        "tasa_de_empleo":37.4
+    },
+    {
+        "per\u00edodo":"2020 4to trimestre",
+        "tasa_de_desocupaci\u00f3n":11.0,
+        "tasa_de_empleo":40.1
+    },
+    {
+        "per\u00edodo":"2021 1er trimestre",
+        "tasa_de_desocupaci\u00f3n":10.2,
+        "tasa_de_empleo":41.6
+    },
+    {
+        "per\u00edodo":"2021 2do trimestre",
+        "tasa_de_desocupaci\u00f3n":9.6,
+        "tasa_de_empleo":41.5
+    },
+    {
+        "per\u00edodo":"2021 3er trimestre",
+        "tasa_de_desocupaci\u00f3n":8.2,
+        "tasa_de_empleo":42.9
+    },
+    {
+        "per\u00edodo":"2021 4to trimestre",
+        "tasa_de_desocupaci\u00f3n":7.0,
+        "tasa_de_empleo":43.6
+    },
+    {
+        "per\u00edodo":"2022 1er trimestre",
+        "tasa_de_desocupaci\u00f3n":7.0,
+        "tasa_de_empleo":43.3
+    },
+    {
+        "per\u00edodo":"2022 2do trimestre",
+        "tasa_de_desocupaci\u00f3n":6.9,
+        "tasa_de_empleo":44.6
+    },
+    {
+        "per\u00edodo":"2022 3er trimestre",
+        "tasa_de_desocupaci\u00f3n":7.1,
+        "tasa_de_empleo":44.2
+    },
+    {
+        "per\u00edodo":"2022 4to trimestre",
+        "tasa_de_desocupaci\u00f3n":6.3,
+        "tasa_de_empleo":44.6
+    },
+    {
+        "per\u00edodo":"2023 1er trimestre",
+        "tasa_de_desocupaci\u00f3n":6.9,
+        "tasa_de_empleo":45.0
+    },
+    {
+        "per\u00edodo":"2023 2do trimestre",
+        "tasa_de_desocupaci\u00f3n":6.2,
+        "tasa_de_empleo":44.6
+    },
+    {
+        "per\u00edodo":"2023 3er trimestre",
+        "tasa_de_desocupaci\u00f3n":5.7,
+        "tasa_de_empleo":45.5
+    },
+    {
+        "per\u00edodo":"2023 4to trimestre",
+        "tasa_de_desocupaci\u00f3n":5.7,
+        "tasa_de_empleo":45.8
+    },
+    {
+        "per\u00edodo":"2024 1er trimestre",
+        "tasa_de_desocupaci\u00f3n":7.7,
+        "tasa_de_empleo":44.3
+    },
+    {
+        "per\u00edodo":"2024 2do trimestre",
+        "tasa_de_desocupaci\u00f3n":7.6,
+        "tasa_de_empleo":44.8
+    },
+    {
+        "per\u00edodo":"2024 3er trimestre",
+        "tasa_de_desocupaci\u00f3n":6.9,
+        "tasa_de_empleo":45.0
+    }
+]
