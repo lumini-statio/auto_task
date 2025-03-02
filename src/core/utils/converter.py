@@ -32,7 +32,7 @@ def file_converter(
     ):
     file = None
 
-    con = sqlite3.Connection('data\\empleo.db')
+    con = sqlite3.Connection(output_path)
 
     match input_format:
         case 'csv':
