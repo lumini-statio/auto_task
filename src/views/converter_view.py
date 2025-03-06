@@ -1,4 +1,5 @@
 import flet as ft
+from src.core.utils.converter import file_converter
 
 
 def converter_page(page: ft.Page):
@@ -20,11 +21,16 @@ def converter_page(page: ft.Page):
     btn_picker = ft.ElevatedButton(
                     "Pick files",
                     icon=ft.Icons.UPLOAD_FILE,
-                    on_click=lambda _: picker.pick_files()
+                    on_click=lambda _: picker.pick_files(
+                        allow_multiple=True
+                    )
                 )
 
     main = ft.Container(
-                content=ft.Column([btn_picker, file_path], expand=True),
+                content=ft.Column([
+                    btn_picker,
+                    file_path],
+                    expand=True),
                 padding=ft.padding.all(30),
                 expand=True
             )
